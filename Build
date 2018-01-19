@@ -1,0 +1,1 @@
+./Coincoind --print-genesis-tx
