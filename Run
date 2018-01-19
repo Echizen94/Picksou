@@ -1,0 +1,2 @@
+Coincoin/build/release/src
+./Coincoind --print-genesis-tx
